@@ -43,7 +43,7 @@ I am a University Student  trying to pursue my career in IT.
 [![Linked In](https://user-images.githubusercontent.com/70857312/131254258-d80dc5c7-2a8f-4f82-9625-78b5641a644b.png)
 ](https://www.linkedin.com/in/piotr-soko%C5%82owski-b70901263/)
 [![email](https://user-images.githubusercontent.com/70857312/131254396-dec088ca-4a5c-4016-ba40-fccf53f36a25.png)
-](mailto:michal_lesniowski_praca@protonmail.com)
+](mailto:sokolowskipiotr297@protonmail.com)
 
 
 
